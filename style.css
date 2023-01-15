@@ -101,3 +101,14 @@ li p {
 .empty {
   color: darkslategrey;
 }
+
+.btn-eliminar-all {
+  background-color: #e31746;
+  margin: auto;
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 15PX;
+  font-size: 1.2em;
+  border-radius: 10PX;
+}
